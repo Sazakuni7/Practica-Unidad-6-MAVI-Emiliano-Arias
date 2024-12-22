@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\emi_a\source\repos\Unidad 6\WildPhysics\main.cpp(27,82): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\emi_a\source\repos\Unidad 6\WildPhysics\main.cpp(27,82): warning C4244:         with
+C:\Users\emi_a\source\repos\Unidad 6\WildPhysics\main.cpp(27,82): warning C4244:         [
+C:\Users\emi_a\source\repos\Unidad 6\WildPhysics\main.cpp(27,82): warning C4244:             T=float
+C:\Users\emi_a\source\repos\Unidad 6\WildPhysics\main.cpp(27,82): warning C4244:         ]
+C:\Users\emi_a\source\repos\Unidad 6\WildPhysics\main.cpp(27,61): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\emi_a\source\repos\Unidad 6\WildPhysics\main.cpp(27,61): warning C4244:         with
+C:\Users\emi_a\source\repos\Unidad 6\WildPhysics\main.cpp(27,61): warning C4244:         [
+C:\Users\emi_a\source\repos\Unidad 6\WildPhysics\main.cpp(27,61): warning C4244:             T=float
+C:\Users\emi_a\source\repos\Unidad 6\WildPhysics\main.cpp(27,61): warning C4244:         ]
+  WildPhysics.vcxproj -> C:\Users\emi_a\source\repos\Unidad 6\x64\Debug\WildPhysics.exe
